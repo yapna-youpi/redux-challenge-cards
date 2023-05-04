@@ -7,70 +7,64 @@
       "id": 1
     },
     {
-      "artist": "Kamau",
+      "artist": "Kamao",
       "year": "2005",
       "photo": "https://picsum.photos/400/484",
-      "id": 3
-    },
-    {
-      "artist": "Samedixs",
-      "year": "2010",
-      "photo": "https://picsum.photos/400/396",
-      "id": 4
+      "id": 2
     },
     {
       "artist": "Neil Burnell",
       "year": "2012",
       "photo": "https://picsum.photos/400/443",
-      "id": 7
-    },
-    {
-      "artist": "Jidhun",
-      "year": "2009",
-      "photo": "https://picsum.photos/400/364",
-      "id": 8
-    },
-    {
-      "artist": "locko dj ",
-      "year": "2018",
-      "photo": "https://picsum.photos/400/302",
-      "id": 10
-    },
-    {
-      "artist": "bruno mars ",
-      "year": "1987",
-      "photo": "https://picsum.photos/400/313",
-      "id": 11
+      "id": 3
     },
     {
       "artist": "cheri roloand",
       "year": "2002",
       "photo": "https://picsum.photos/400/410",
-      "id": 12
+      "id": 4
     },
     {
       "artist": "david guetta ",
       "year": "1883",
       "photo": "https://picsum.photos/400/488",
-      "id": 13
-    },
-    {
-      "artist": "walto samuel",
-      "year": "1986",
-      "photo": "https://picsum.photos/400/413",
-      "id": 14
+      "id": 5
     },
     {
       "artist": "alan walker",
       "year": "1798",
       "photo": "https://picsum.photos/400/418",
-      "id": 15
+      "id": 6
     },
     {
       "artist": "prince aimé",
       "year": "2003",
       "photo": "https://picsum.photos/400/490",
-      "id": 16
+      "id": 7
+    },
+    {
+      "artist": "azerben",
+      "year": "2001",
+      "photo": "https://picsum.photos/400/321",
+      "id": 9
+    },
+    {
+      "artist": "katio katios pro",
+      "year": "1094",
+      "photo": "https://picsum.photos/400/422",
+      "id": 11
+    },
+    {
+      "artist": "egango le roi",
+      "year": "2018",
+      "photo": "https://picsum.photos/400/475",
+      "id": 13
+    },
+    {
+      "artist": "greogoire mac manaman",
+      "year": "1995",
+      "photo": "https://picsum.photos/400/495",
+      "id": 14
     }
   ]
 }

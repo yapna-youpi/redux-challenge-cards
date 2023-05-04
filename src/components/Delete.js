@@ -9,9 +9,10 @@ const Delete = ({ id }) => {
   const dispatch = useDispatch();
 
   const handleDelete = () => {
-    axios.delete("http://localhost:5000/pictures/" + id);
-    dispatch(deletePictures(id))
-
+    axios.delete("http://localhost:5000/pictures/" + id).then(
+      dispatch(deletePictures(id))
+    );
+    console.log('lidentifiant', id )
   };
   return (
     <div className="delete-icon" onClick={() => handleDelete()}>
